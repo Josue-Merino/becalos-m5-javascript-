@@ -22,7 +22,7 @@ A continuación se detallan los retos de desarrollo asíncrono y Javascript Avan
 | **01. Event Loop y Asincronicidad** | Control del flujo no bloqueante, Call Stack, Web APIs y simulación de tareas en tiempo real. | Hecho  |
 | **02. Callbacks and JSON** | Manejo de funciones como argumentos y formateo de datos estructurados para transmisión web. | Hecho |
 | **03. Fetch y Axios** | Consumo de APIs REST externas mediante clientes HTTP nativos y librerías especializadas. | Hecho |
-| **04. Promesas y Async/Await** | Estructuración de código asíncrono lineal, Promise Chaining, optimización concurrente y manejo de excepciones. | En Proceso |
+| **04. Promesas y Async/Await** | Estructuración de código asíncrono lineal, Promise Chaining, optimización concurrente y manejo de excepciones. | Hecho |
 | **05. Manejo de formularios** | Captura de datos, eventos del DOM e interacción interactiva con el usuario. | En Proceso |
 | **06. Validación de formularios con Zod** | Esquemas de validación de tipado seguro y manejo estricto de errores de datos en cliente. | En Proceso |
 | **07. Intro a Node.js y npm** | Inicialización de entornos de ejecución backend, scripts y gestión de paquetes de dependencias. | En Proceso |
