@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>API de Rick & Morty</title>
+</head>
+<body>
+
+    <header class="header">
+        <h1 class="header__title">Prueba de API de Rick & Morty</h1>
+        <form action="#" class="form">
+            <div class="field">
+                <label for="select" class="form__label">Seleccione que Personaje mostrar:</label>
+                <input type="number" name="" id="numberCharacter" class="input__form">
+            </div>
+            <div class="field">
+                <label for="select" class="form__label">Personajes según categoría: </label>
+                <select name="status" class="form__select" id="select">
+                    <option selected disabled >Seleccione una Opción</option>
+                    <option value="all">Todos los Personajes</option>
+                    <option value="alive">Vivos</option>
+                    <option value="dead">Muertos</option>
+                    <option value="unknown">Estado Desconocido</option>
+                </select>
+            </div>
+            <button class="form__btn" id="form-btn">Buscar</button>
+        </form>
+    </header>
+    <main>
+        <section class="grid__characters">
+
+        </section>
+        <div class="pages">
+            <button class="pages__btn" id="prev">
+                Anterior
+            </button>
+            <button class="pages__btn" id="next">
+                Siguiente
+            </button>
+        </div>
+
+
+
+        
+    </main>
+
+    <script type="module" src="app.js"></script>
+</body>
+</html>
