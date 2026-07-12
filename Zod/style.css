@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #020024;
+    background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 50%, rgba(40, 145, 166, 1) 100%);
+}
+/* Estilos básicos para el formulario */
+
+.title {
+    text-align: center;
+    font-size: 3rem;
+    margin: 2rem;
+    color: #ffff;
+}
+
+
+.container {
+    width: 60rem;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 1rem;
+    margin-top: 5rem;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 3rem ;
+    gap: 1rem;
+}
+
+
+.field {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.form label {
+    color: #202020;
+}
+
+.form input {
+    padding: 1rem;
+    border: none;
+    background-color: #e9e8e8;
+    border-radius: 1rem;
+}
+
+.btn {
+    background-color: #18118d;
+    color: #fff;
+    font-weight: bold;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    font-size: 1.8rem;
+    border: none;
+    margin-top: 2rem;
+    transition: opacity .25s ease-in;
+    opacity: .3;
+    cursor: pointer;
+}
+
+
+.alerta {
+    background-color: #db3939;
+    color: #fff;
+    font-weight: bold;
+    padding: .5rem;
+    border-radius: 1rem;
+    border: 2px solid #8d0707;
+    font-size: 1.2rem;
+    text-align: center;
+}
