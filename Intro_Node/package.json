@@ -1,0 +1,14 @@
+{
+  "name": "Intro_Node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "explorar": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@11.12.0",
+  "type": "module"
+}
