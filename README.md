@@ -25,8 +25,8 @@ A continuación se detallan los retos de desarrollo asíncrono y Javascript Avan
 | **04. Promesas y Async/Await** | Estructuración de código asíncrono lineal, Promise Chaining, optimización concurrente y manejo de excepciones. | Hecho |
 | **05. Manejo de formularios** | Captura de datos, eventos del DOM e interacción interactiva con el usuario. | Hecho |
 | **06. Validación de formularios con Zod** | Esquemas de validación de tipado seguro y manejo estricto de errores de datos en cliente. | Hecho |
-| **07. Intro a Node.js y npm** | Inicialización de entornos de ejecución backend, scripts y gestión de paquetes de dependencias. | En Proceso |
-| **08. Intro a Vite** | Configuración de entornos de desarrollo rápidos y empaquetadores (bundlers) frontend modernos. | En Proceso |
+| **07. Intro a Node.js y npm** | Inicialización de entornos de ejecución backend, scripts y gestión de paquetes de dependencias. | Hecho |
+| **08. Intro a Vite** | Configuración de entornos de desarrollo rápidos y empaquetadores (bundlers) frontend modernos. | Hecho |
 
 ---
 
